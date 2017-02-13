@@ -1,0 +1,467 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: activation-dropzone-activate
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Drop Zone/Dropzone Fx
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0.6915332
+        outSlope: 0.6915332
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.21752475
+        inSlope: -0.5473963
+        outSlope: -0.5473963
+        tangentMode: 10
+      - time: 0.1
+        value: 0.07226931
+        inSlope: 1.8821657
+        outSlope: 1.8821657
+        tangentMode: 0
+      - time: 0.15
+        value: 0.27339536
+        inSlope: -0.5475805
+        outSlope: -0.5475805
+        tangentMode: 10
+      - time: 0.18333334
+        value: 0.10280599
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.23333333
+        value: 0.29329693
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.31666666
+        value: 0.1877853
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.44999996
+        value: 0.271075
+        inSlope: 0.8081928
+        outSlope: 0.8081928
+        tangentMode: 10
+      - time: 0.8666667
+        value: 0.6842886
+        inSlope: 0.5221893
+        outSlope: 0.5221893
+        tangentMode: 10
+      - time: 0.93333334
+        value: 0.6877997
+        inSlope: 0.97689635
+        outSlope: 0.97689635
+        tangentMode: 10
+      - time: 0.98333335
+        value: 0.78285605
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.0500001
+        value: 0.7670408
+        inSlope: 0.3743374
+        outSlope: 0.3743374
+        tangentMode: 10
+      - time: 1.1
+        value: 0.8163359
+        inSlope: 0.6897347
+        outSlope: 0.6897347
+        tangentMode: 10
+      - time: 1.5666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: lerp
+    path: Drop Zone/Dropzone Fx/dropzone/Color Controls
+    classID: 114
+    script: {fileID: 11500000, guid: 8f3f970e34952b64e84e70cbc6cca5de, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0.70291644
+        outSlope: 0.70291644
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.21814026
+        inSlope: -0.5645268
+        outSlope: -0.5645268
+        tangentMode: 10
+      - time: 0.1
+        value: 0.07143503
+        inSlope: 1.8836558
+        outSlope: 1.8836558
+        tangentMode: 0
+      - time: 0.15
+        value: 0.27339536
+        inSlope: -0.53923774
+        outSlope: -0.53923774
+        tangentMode: 10
+      - time: 0.18333334
+        value: 0.10280599
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.23333333
+        value: 0.29329693
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.31666666
+        value: 0.1877853
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.44999996
+        value: 0.271075
+        inSlope: 0.8081928
+        outSlope: 0.8081928
+        tangentMode: 10
+      - time: 0.8666667
+        value: 0.6842886
+        inSlope: 0.5221893
+        outSlope: 0.5221893
+        tangentMode: 10
+      - time: 0.93333334
+        value: 0.6877997
+        inSlope: 0.97689635
+        outSlope: 0.97689635
+        tangentMode: 10
+      - time: 0.98333335
+        value: 0.78285605
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.0500001
+        value: 0.7670408
+        inSlope: 0.3743374
+        outSlope: 0.3743374
+        tangentMode: 10
+      - time: 1.1
+        value: 0.8163359
+        inSlope: 0.6897347
+        outSlope: 0.6897347
+        tangentMode: 10
+      - time: 1.5666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: currentColor.r
+    path: Drop Zone/Dropzone Fx/dropzone/Color Controls
+    classID: 114
+    script: {fileID: 11500000, guid: 8f3f970e34952b64e84e70cbc6cca5de, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.6666667
+        value: 0
+        inSlope: 4.1379313
+        outSlope: 4.1379313
+        tangentMode: 10
+      - time: 1.15
+        value: 2
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: EmissionModule.rate.scalar
+    path: Drop Zone/Dropzone Fx/Particles  - Animation Root/Particle System
+    classID: 198
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 2583446489
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2139531849
+      attribute: 1403319332
+      script: {fileID: 11500000, guid: 8f3f970e34952b64e84e70cbc6cca5de, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2139531849
+      attribute: 841607395
+      script: {fileID: 11500000, guid: 8f3f970e34952b64e84e70cbc6cca5de, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1442367892
+      attribute: 2181258151
+      script: {fileID: 0}
+      classID: 198
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.5666667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Drop Zone/Dropzone Fx
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0.6915332
+        outSlope: 0.6915332
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.21752475
+        inSlope: -0.5473963
+        outSlope: -0.5473963
+        tangentMode: 10
+      - time: 0.1
+        value: 0.07226931
+        inSlope: 1.8821657
+        outSlope: 1.8821657
+        tangentMode: 0
+      - time: 0.15
+        value: 0.27339536
+        inSlope: -0.5475805
+        outSlope: -0.5475805
+        tangentMode: 10
+      - time: 0.18333334
+        value: 0.10280599
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.23333333
+        value: 0.29329693
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.31666666
+        value: 0.1877853
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.44999996
+        value: 0.271075
+        inSlope: 0.8081928
+        outSlope: 0.8081928
+        tangentMode: 10
+      - time: 0.8666667
+        value: 0.6842886
+        inSlope: 0.5221893
+        outSlope: 0.5221893
+        tangentMode: 10
+      - time: 0.93333334
+        value: 0.6877997
+        inSlope: 0.97689635
+        outSlope: 0.97689635
+        tangentMode: 10
+      - time: 0.98333335
+        value: 0.78285605
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.0500001
+        value: 0.7670408
+        inSlope: 0.3743374
+        outSlope: 0.3743374
+        tangentMode: 10
+      - time: 1.1
+        value: 0.8163359
+        inSlope: 0.6897347
+        outSlope: 0.6897347
+        tangentMode: 10
+      - time: 1.5666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: lerp
+    path: Drop Zone/Dropzone Fx/dropzone/Color Controls
+    classID: 114
+    script: {fileID: 11500000, guid: 8f3f970e34952b64e84e70cbc6cca5de, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0.70291644
+        outSlope: 0.70291644
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.21814026
+        inSlope: -0.5645268
+        outSlope: -0.5645268
+        tangentMode: 10
+      - time: 0.1
+        value: 0.07143503
+        inSlope: 1.8836558
+        outSlope: 1.8836558
+        tangentMode: 0
+      - time: 0.15
+        value: 0.27339536
+        inSlope: -0.53923774
+        outSlope: -0.53923774
+        tangentMode: 10
+      - time: 0.18333334
+        value: 0.10280599
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.23333333
+        value: 0.29329693
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.31666666
+        value: 0.1877853
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.44999996
+        value: 0.271075
+        inSlope: 0.8081928
+        outSlope: 0.8081928
+        tangentMode: 10
+      - time: 0.8666667
+        value: 0.6842886
+        inSlope: 0.5221893
+        outSlope: 0.5221893
+        tangentMode: 10
+      - time: 0.93333334
+        value: 0.6877997
+        inSlope: 0.97689635
+        outSlope: 0.97689635
+        tangentMode: 10
+      - time: 0.98333335
+        value: 0.78285605
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.0500001
+        value: 0.7670408
+        inSlope: 0.3743374
+        outSlope: 0.3743374
+        tangentMode: 10
+      - time: 1.1
+        value: 0.8163359
+        inSlope: 0.6897347
+        outSlope: 0.6897347
+        tangentMode: 10
+      - time: 1.5666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: currentColor.r
+    path: Drop Zone/Dropzone Fx/dropzone/Color Controls
+    classID: 114
+    script: {fileID: 11500000, guid: 8f3f970e34952b64e84e70cbc6cca5de, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.6666667
+        value: 0
+        inSlope: 4.1379313
+        outSlope: 4.1379313
+        tangentMode: 10
+      - time: 1.15
+        value: 2
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: EmissionModule.rate.scalar
+    path: Drop Zone/Dropzone Fx/Particles  - Animation Root/Particle System
+    classID: 198
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

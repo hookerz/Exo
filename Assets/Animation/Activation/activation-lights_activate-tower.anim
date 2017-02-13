@@ -1,0 +1,725 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: activation-lights_activate-tower
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.26666668
+        value: 1.3078281
+        inSlope: 9.9746895
+        outSlope: 9.9746895
+        tangentMode: 0
+      - time: 1.8333334
+        value: 6.8663244
+        inSlope: -0.9604244
+        outSlope: -0.9604244
+        tangentMode: 0
+      - time: 2.1666667
+        value: 7
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Intensity
+    path: Tower Light
+    classID: 108
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.45
+        value: 0
+        inSlope: 1.1041775
+        outSlope: 1.1041775
+        tangentMode: 10
+      - time: 2.3333335
+        value: 0.97535694
+        inSlope: 0.56969094
+        outSlope: 0.56969094
+        tangentMode: 10
+      - time: 3.0333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (11)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.35
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 2.2333333
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 2.9333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (12)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.6666666
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 2.55
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 3.25
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (6)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.6666667
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 1.55
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 2.25
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (2)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.1166667
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 2
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 2.6999998
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (3)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.93333334
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 1.8166666
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 2.5166667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (4)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.0333333
+        value: 0
+        inSlope: 1.1041778
+        outSlope: 1.1041778
+        tangentMode: 10
+      - time: 1.9166665
+        value: 0.97535694
+        inSlope: 0.5696911
+        outSlope: 0.5696911
+        tangentMode: 10
+      - time: 2.6166666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (5)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.93333334
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 1.8166666
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 2.5166667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (7)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.93333334
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 1.8166666
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 2.5166667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (8)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.8666667
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 1.75
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 2.4499998
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (9)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.76666665
+        value: 0.0050055124
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 1.65
+        value: 0.9803625
+        inSlope: 0.569691
+        outSlope: 0.569691
+        tangentMode: 10
+      - time: 2.35
+        value: 1.0050055
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (10)
+    classID: 23
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 2674327726
+      attribute: 898800009
+      script: {fileID: 0}
+      classID: 108
+      customType: 25
+      isPPtrCurve: 0
+    - path: 772594877
+      attribute: 2191374317
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 86085502
+      attribute: 2191374317
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3952493283
+      attribute: 2191374317
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2415560679
+      attribute: 2191374317
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2531374758
+      attribute: 2191374317
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3651149921
+      attribute: 2191374317
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3233485088
+      attribute: 2191374317
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 4069356450
+      attribute: 2191374317
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1964339053
+      attribute: 2191374317
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1812880940
+      attribute: 2191374317
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 924315132
+      attribute: 2191374317
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 3.25
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.26666668
+        value: 1.3078281
+        inSlope: 9.9746895
+        outSlope: 9.9746895
+        tangentMode: 0
+      - time: 1.8333334
+        value: 6.8663244
+        inSlope: -0.9604244
+        outSlope: -0.9604244
+        tangentMode: 0
+      - time: 2.1666667
+        value: 7
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Intensity
+    path: Tower Light
+    classID: 108
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.45
+        value: 0
+        inSlope: 1.1041775
+        outSlope: 1.1041775
+        tangentMode: 10
+      - time: 2.3333335
+        value: 0.97535694
+        inSlope: 0.56969094
+        outSlope: 0.56969094
+        tangentMode: 10
+      - time: 3.0333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (11)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.35
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 2.2333333
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 2.9333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (12)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.6666666
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 2.55
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 3.25
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (6)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.6666667
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 1.55
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 2.25
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (2)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.1166667
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 2
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 2.6999998
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (3)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.93333334
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 1.8166666
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 2.5166667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (4)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.0333333
+        value: 0
+        inSlope: 1.1041778
+        outSlope: 1.1041778
+        tangentMode: 10
+      - time: 1.9166665
+        value: 0.97535694
+        inSlope: 0.5696911
+        outSlope: 0.5696911
+        tangentMode: 10
+      - time: 2.6166666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (5)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.93333334
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 1.8166666
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 2.5166667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (7)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.93333334
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 1.8166666
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 2.5166667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (8)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.8666667
+        value: 0
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 1.75
+        value: 0.97535694
+        inSlope: 0.56969106
+        outSlope: 0.56969106
+        tangentMode: 10
+      - time: 2.4499998
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (9)
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.76666665
+        value: 0.0050055124
+        inSlope: 1.1041777
+        outSlope: 1.1041777
+        tangentMode: 10
+      - time: 1.65
+        value: 0.9803625
+        inSlope: 0.569691
+        outSlope: 0.569691
+        tangentMode: 10
+      - time: 2.35
+        value: 1.0050055
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaMultiplier
+    path: Tower/Tower Fx/Glitter Transforms/Glitter (10)
+    classID: 23
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

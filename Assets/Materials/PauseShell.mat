@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PauseShell
+  m_Shader: {fileID: 4800000, guid: ce7755939e866c84a9e94410100f0856, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Alpha
+      second: 0
+    - first:
+        name: _ColorOrRefr
+      second: 1
+    - first:
+        name: _CubeLOD
+      second: 45.6
+    - first:
+        name: _Glossiness
+      second: 0.5
+    - first:
+        name: _IOR
+      second: 3.98
+    - first:
+        name: _IOREnd
+      second: 0
+    - first:
+        name: _IORLerp
+      second: 0
+    - first:
+        name: _IORStart
+      second: 1
+    - first:
+        name: _Metallic
+      second: 0
+    - first:
+        name: _RefrOrColor
+      second: 0
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}

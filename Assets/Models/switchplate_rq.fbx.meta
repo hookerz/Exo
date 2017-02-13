@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: c6b14c6b73160b7468b99007ecb08525
+timeCreated: 1475513988
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: change_plate_diagonal
+    100002: change_plate_horizontal
+    100004: change_plate_U_pattern
+    100006: change_plate_V_pattern
+    100008: diagonal_slide
+    100010: horizontal_slide
+    100012: main_piece
+    100014: pivot_transform
+    100016: slide_part
+    100018: //RootNode
+    100020: U_pattern_slide
+    100022: V_pattern_slide
+    400000: change_plate_diagonal
+    400002: change_plate_horizontal
+    400004: change_plate_U_pattern
+    400006: change_plate_V_pattern
+    400008: diagonal_slide
+    400010: horizontal_slide
+    400012: main_piece
+    400014: pivot_transform
+    400016: slide_part
+    400018: //RootNode
+    400020: U_pattern_slide
+    400022: V_pattern_slide
+    2300000: change_plate_diagonal
+    2300002: change_plate_horizontal
+    2300004: change_plate_U_pattern
+    2300006: change_plate_V_pattern
+    2300008: diagonal_slide
+    2300010: horizontal_slide
+    2300012: main_piece
+    2300014: slide_part
+    2300016: U_pattern_slide
+    2300018: V_pattern_slide
+    3300000: change_plate_diagonal
+    3300002: change_plate_horizontal
+    3300004: change_plate_U_pattern
+    3300006: change_plate_V_pattern
+    3300008: diagonal_slide
+    3300010: horizontal_slide
+    3300012: main_piece
+    3300014: slide_part
+    3300016: U_pattern_slide
+    3300018: V_pattern_slide
+    4300000: main_piece
+    4300002: V_pattern_slide
+    4300004: change_plate_V_pattern
+    4300006: U_pattern_slide
+    4300008: change_plate_U_pattern
+    4300010: horizontal_slide
+    4300012: change_plate_horizontal
+    4300014: diagonal_slide
+    4300016: change_plate_diagonal
+    4300018: slide_part
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 2
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

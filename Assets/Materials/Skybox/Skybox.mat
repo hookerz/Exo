@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Skybox
+  m_Shader: {fileID: 4800000, guid: d892de6772fb4594a94b70f868c6e94e, type: 3}
+  m_ShaderKeywords: USE_DITHER USE_TEXTURE _USETEXTURE_ON
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DayGradient
+      second:
+        m_Texture: {fileID: 2800000, guid: 632a59afd1522b24980b40f2aae9ea79, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailAlbedoMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailMask
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailNormalMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _EmissionMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MetallicGlossMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NightGradient
+      second:
+        m_Texture: {fileID: 2800000, guid: 1df5e055db6702d4599c46ccabe27ff4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _OcclusionMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ParallaxMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Stars
+      second:
+        m_Texture: {fileID: 8900000, guid: b09eda1b536bea74c816e93140b30a1b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _SunsetGradient
+      second:
+        m_Texture: {fileID: 2800000, guid: 602c97a0a84d7d24797b90de4d7b5dd4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _BumpScale
+      second: 1
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _Darkness
+      second: 0
+    - first:
+        name: _DayNightFactor
+      second: 0
+    - first:
+        name: _DayTime
+      second: 0
+    - first:
+        name: _DebugFactor
+      second: 0
+    - first:
+        name: _DetailNormalMapScale
+      second: 1
+    - first:
+        name: _DstBlend
+      second: 0
+    - first:
+        name: _FlowSpeed
+      second: 1
+    - first:
+        name: _Glossiness
+      second: 0.5
+    - first:
+        name: _IntensityR
+      second: 1
+    - first:
+        name: _LerpPowerMax
+      second: 2
+    - first:
+        name: _LerpPowerMin
+      second: 1
+    - first:
+        name: _Max
+      second: 0.889
+    - first:
+        name: _MaxStarBlend
+      second: 1
+    - first:
+        name: _Metallic
+      second: 0
+    - first:
+        name: _MinStarBlend
+      second: 1
+    - first:
+        name: _Mode
+      second: 0
+    - first:
+        name: _NoisyIntensity
+      second: 1
+    - first:
+        name: _OcclusionStrength
+      second: 1
+    - first:
+        name: _Parallax
+      second: 0.02
+    - first:
+        name: _Power
+      second: 1
+    - first:
+        name: _PulseSpeed
+      second: 1
+    - first:
+        name: _SrcBlend
+      second: 1
+    - first:
+        name: _UVSec
+      second: 0
+    - first:
+        name: _UseDither
+      second: 1
+    - first:
+        name: _UseTexture
+      second: 1
+    - first:
+        name: _ZWrite
+      second: 1
+    m_Colors:
+    - first:
+        name: _AboveThresholdColor
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _CameraDirectionWS
+      second: {r: -0.06903262, g: -0.2425346, b: -0.9676836, a: 0}
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _ColorB
+      second: {r: 0.015686275, g: 0.058823533, b: 0.15686275, a: 0}
+    - first:
+        name: _ColorR
+      second: {r: 0.015686275, g: 0.058823533, b: 0.15686275, a: 0}
+    - first:
+        name: _ColorT
+      second: {r: 0.20784315, g: 0.48235297, b: 0.6627451, a: 0}
+    - first:
+        name: _Direction
+      second: {r: 4.38, g: -1.64, b: -0.19, a: 0}
+    - first:
+        name: _Direction2
+      second: {r: -1.57, g: -2.26, b: 10.11, a: 0}
+    - first:
+        name: _EmissionColor
+      second: {r: 0, g: 0, b: 0, a: 1}
+    - first:
+        name: _EndColor
+      second: {r: 0.015686275, g: 0.058823533, b: 0.15686275, a: 1}
+    - first:
+        name: _StartColor
+      second: {r: 0.20784314, g: 0.48235294, b: 0.6627451, a: 1}

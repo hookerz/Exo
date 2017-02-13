@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 25b9b1161c9704943ba2ba456ea0369b
+timeCreated: 1477077494
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cover
+    100002: Cover_2
+    100004: Encasing
+    100006: gems
+    100008: interior
+    100010: left
+    100012: Plane_1
+    100014: Plane_1_2
+    100016: right
+    100018: Symmetry_1
+    100020: tanPlates
+    100022: //RootNode
+    100024: Tower_1
+    400000: Cover
+    400002: Cover_2
+    400004: Encasing
+    400006: gems
+    400008: interior
+    400010: left
+    400012: Plane_1
+    400014: Plane_1_2
+    400016: right
+    400018: Symmetry_1
+    400020: tanPlates
+    400022: //RootNode
+    400024: Tower_1
+    2300000: Cover_2
+    2300002: gems
+    2300004: interior
+    2300006: Plane_1
+    2300008: Plane_1_2
+    2300010: tanPlates
+    3300000: Cover_2
+    3300002: gems
+    3300004: interior
+    3300006: Plane_1
+    3300008: Plane_1_2
+    3300010: tanPlates
+    4300000: gems
+    4300002: Cover_2
+    4300004: tanPlates
+    4300006: interior
+    4300008: Plane_1
+    4300010: Plane_1_2
+    7400000: out
+    7400002: pose
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: out
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tower_1
+        weight: 1
+      - path: Tower_1/Cover
+        weight: 1
+      - path: Tower_1/Cover/Symmetry_1
+        weight: 1
+      - path: Tower_1/Cover/Symmetry_1/Cover_2
+        weight: 1
+      - path: Tower_1/Encasing
+        weight: 1
+      - path: Tower_1/Encasing/left
+        weight: 1
+      - path: Tower_1/Encasing/left/Plane_1_2
+        weight: 1
+      - path: Tower_1/Encasing/right
+        weight: 1
+      - path: Tower_1/Encasing/right/Plane_1
+        weight: 1
+      - path: Tower_1/gems
+        weight: 1
+      - path: Tower_1/interior
+        weight: 1
+      - path: Tower_1/tanPlates
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: pose
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tower_1
+        weight: 1
+      - path: Tower_1/Cover
+        weight: 1
+      - path: Tower_1/Cover/Symmetry_1
+        weight: 1
+      - path: Tower_1/Cover/Symmetry_1/Cover_2
+        weight: 1
+      - path: Tower_1/Encasing
+        weight: 1
+      - path: Tower_1/Encasing/left
+        weight: 1
+      - path: Tower_1/Encasing/left/Plane_1_2
+        weight: 1
+      - path: Tower_1/Encasing/right
+        weight: 1
+      - path: Tower_1/Encasing/right/Plane_1
+        weight: 1
+      - path: Tower_1/gems
+        weight: 1
+      - path: Tower_1/interior
+        weight: 1
+      - path: Tower_1/tanPlates
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

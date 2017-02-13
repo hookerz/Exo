@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Orb
+  - Blob Shadow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Dust Bounds
+  - Tutorial
+  - Drone
+  - Tower1 Area
+  - Tower2 Area
+  - Tower3 Area
+  - Tower4 Area
+  - 
+  - 
+  - 
+  - 
+  - Background Stuff
+  - Left Only
+  - Right Only
+  - Structure
+  - Picker
+  - Scanner
+  - Blocker
+  - Terrain
+  - Lever Base
+  - Levers
+  - Orb
+  - Pickupable
+  - Scannable
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

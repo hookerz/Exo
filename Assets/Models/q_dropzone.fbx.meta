@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 3ef37d567fc9c34489e0d9de90294c59
+timeCreated: 1476812541
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Array_1
+    100002: base
+    100004: Cloner_1
+    100006: Cloner_2
+    100008: Cloner_3
+    100010: Cloner_4
+    100012: Cloner_5
+    100014: Cloner_6
+    100016: Cube
+    100018: Cube_0
+    100020: Cube_0_1
+    100022: Cube_0_1_2
+    100024: Cube_0_1_3
+    100026: Cube_0_1_4
+    100028: Cube_0_1_5
+    100030: Cube_0_1_6
+    100032: Cube_0_2
+    100034: Cube_0_3
+    100036: Cube_0_4
+    100038: Cube_0_5
+    100040: Cube_0_6
+    100042: Cube_1
+    100044: Cube_10
+    100046: Cube_11
+    100048: Cube_12
+    100050: Cube_1_2
+    100052: Cube_1_3
+    100054: Cube_1_4
+    100056: Cube_1_5
+    100058: Cube_1_6
+    100060: Cube_2
+    100062: Cube_3
+    100064: Cube_4
+    100066: Cube_5
+    100068: Cube_6
+    100070: Cube_7
+    100072: Cube_8
+    100074: Cube_9
+    100076: Null
+    100078: Null_2
+    100080: Null_3
+    100082: Null_4
+    100084: Null_5
+    100086: Null_6
+    100088: //RootNode
+    400000: Array_1
+    400002: base
+    400004: Cloner_1
+    400006: Cloner_2
+    400008: Cloner_3
+    400010: Cloner_4
+    400012: Cloner_5
+    400014: Cloner_6
+    400016: Cube
+    400018: Cube_0
+    400020: Cube_0_1
+    400022: Cube_0_1_2
+    400024: Cube_0_1_3
+    400026: Cube_0_1_4
+    400028: Cube_0_1_5
+    400030: Cube_0_1_6
+    400032: Cube_0_2
+    400034: Cube_0_3
+    400036: Cube_0_4
+    400038: Cube_0_5
+    400040: Cube_0_6
+    400042: Cube_1
+    400044: Cube_10
+    400046: Cube_11
+    400048: Cube_12
+    400050: Cube_1_2
+    400052: Cube_1_3
+    400054: Cube_1_4
+    400056: Cube_1_5
+    400058: Cube_1_6
+    400060: Cube_2
+    400062: Cube_3
+    400064: Cube_4
+    400066: Cube_5
+    400068: Cube_6
+    400070: Cube_7
+    400072: Cube_8
+    400074: Cube_9
+    400076: Null
+    400078: Null_2
+    400080: Null_3
+    400082: Null_4
+    400084: Null_5
+    400086: Null_6
+    400088: //RootNode
+    2300000: base
+    2300002: Cube
+    2300004: Cube_0
+    2300006: Cube_0_1
+    2300008: Cube_0_1_2
+    2300010: Cube_0_1_3
+    2300012: Cube_0_1_4
+    2300014: Cube_0_1_5
+    2300016: Cube_0_1_6
+    2300018: Cube_0_2
+    2300020: Cube_0_3
+    2300022: Cube_0_4
+    2300024: Cube_0_5
+    2300026: Cube_0_6
+    2300028: Cube_1
+    2300030: Cube_10
+    2300032: Cube_11
+    2300034: Cube_12
+    2300036: Cube_1_2
+    2300038: Cube_1_3
+    2300040: Cube_1_4
+    2300042: Cube_1_5
+    2300044: Cube_1_6
+    2300046: Cube_2
+    2300048: Cube_3
+    2300050: Cube_4
+    2300052: Cube_5
+    2300054: Cube_6
+    2300056: Cube_7
+    2300058: Cube_8
+    2300060: Cube_9
+    3300000: base
+    3300002: Cube
+    3300004: Cube_0
+    3300006: Cube_0_1
+    3300008: Cube_0_1_2
+    3300010: Cube_0_1_3
+    3300012: Cube_0_1_4
+    3300014: Cube_0_1_5
+    3300016: Cube_0_1_6
+    3300018: Cube_0_2
+    3300020: Cube_0_3
+    3300022: Cube_0_4
+    3300024: Cube_0_5
+    3300026: Cube_0_6
+    3300028: Cube_1
+    3300030: Cube_10
+    3300032: Cube_11
+    3300034: Cube_12
+    3300036: Cube_1_2
+    3300038: Cube_1_3
+    3300040: Cube_1_4
+    3300042: Cube_1_5
+    3300044: Cube_1_6
+    3300046: Cube_2
+    3300048: Cube_3
+    3300050: Cube_4
+    3300052: Cube_5
+    3300054: Cube_6
+    3300056: Cube_7
+    3300058: Cube_8
+    3300060: Cube_9
+    4300000: Cube_0_1
+    4300002: Cube
+    4300004: Cube_2
+    4300006: Cube_1
+    4300008: Cube_0
+    4300010: Cube_0_1_2
+    4300012: Cube_3
+    4300014: Cube_4
+    4300016: Cube_1_2
+    4300018: Cube_0_2
+    4300020: Cube_0_1_3
+    4300022: Cube_5
+    4300024: Cube_6
+    4300026: Cube_1_3
+    4300028: Cube_0_3
+    4300030: Cube_0_1_4
+    4300032: Cube_7
+    4300034: Cube_8
+    4300036: Cube_1_4
+    4300038: Cube_0_4
+    4300040: Cube_0_1_5
+    4300042: Cube_9
+    4300044: Cube_10
+    4300046: Cube_1_5
+    4300048: Cube_0_5
+    4300050: Cube_0_1_6
+    4300052: Cube_11
+    4300054: Cube_12
+    4300056: Cube_1_6
+    4300058: Cube_0_6
+    4300060: base
+    7400000: CINEMA_4D_Main
+    7400002: Pose
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Array_1
+        weight: 1
+      - path: Array_1/Cloner_1
+        weight: 1
+      - path: Array_1/Cloner_1/Cube_0_1_6
+        weight: 1
+      - path: Array_1/Cloner_1/Cube_0_1_6/Cube_11
+        weight: 1
+      - path: Array_1/Cloner_1/Cube_0_1_6/Cube_11/Null_6
+        weight: 1
+      - path: Array_1/Cloner_1/Cube_0_1_6/Cube_11/Null_6/Cube_1_6
+        weight: 1
+      - path: Array_1/Cloner_1/Cube_0_1_6/Cube_11/Null_6/Cube_12
+        weight: 1
+      - path: Array_1/Cloner_1/Cube_0_6
+        weight: 1
+      - path: Array_1/Cloner_2
+        weight: 1
+      - path: Array_1/Cloner_2/Cube_0_1_5
+        weight: 1
+      - path: Array_1/Cloner_2/Cube_0_1_5/Cube_9
+        weight: 1
+      - path: Array_1/Cloner_2/Cube_0_1_5/Cube_9/Null_5
+        weight: 1
+      - path: Array_1/Cloner_2/Cube_0_1_5/Cube_9/Null_5/Cube_1_5
+        weight: 1
+      - path: Array_1/Cloner_2/Cube_0_1_5/Cube_9/Null_5/Cube_10
+        weight: 1
+      - path: Array_1/Cloner_2/Cube_0_5
+        weight: 1
+      - path: Array_1/Cloner_3
+        weight: 1
+      - path: Array_1/Cloner_3/Cube_0_1_4
+        weight: 1
+      - path: Array_1/Cloner_3/Cube_0_1_4/Cube_7
+        weight: 1
+      - path: Array_1/Cloner_3/Cube_0_1_4/Cube_7/Null_4
+        weight: 1
+      - path: Array_1/Cloner_3/Cube_0_1_4/Cube_7/Null_4/Cube_1_4
+        weight: 1
+      - path: Array_1/Cloner_3/Cube_0_1_4/Cube_7/Null_4/Cube_8
+        weight: 1
+      - path: Array_1/Cloner_3/Cube_0_4
+        weight: 1
+      - path: Array_1/Cloner_4
+        weight: 1
+      - path: Array_1/Cloner_4/Cube_0_1_3
+        weight: 1
+      - path: Array_1/Cloner_4/Cube_0_1_3/Cube_5
+        weight: 1
+      - path: Array_1/Cloner_4/Cube_0_1_3/Cube_5/Null_3
+        weight: 1
+      - path: Array_1/Cloner_4/Cube_0_1_3/Cube_5/Null_3/Cube_1_3
+        weight: 1
+      - path: Array_1/Cloner_4/Cube_0_1_3/Cube_5/Null_3/Cube_6
+        weight: 1
+      - path: Array_1/Cloner_4/Cube_0_3
+        weight: 1
+      - path: Array_1/Cloner_5
+        weight: 1
+      - path: Array_1/Cloner_5/Cube_0_1_2
+        weight: 1
+      - path: Array_1/Cloner_5/Cube_0_1_2/Cube_3
+        weight: 1
+      - path: Array_1/Cloner_5/Cube_0_1_2/Cube_3/Null_2
+        weight: 1
+      - path: Array_1/Cloner_5/Cube_0_1_2/Cube_3/Null_2/Cube_1_2
+        weight: 1
+      - path: Array_1/Cloner_5/Cube_0_1_2/Cube_3/Null_2/Cube_4
+        weight: 1
+      - path: Array_1/Cloner_5/Cube_0_2
+        weight: 1
+      - path: Array_1/Cloner_6
+        weight: 1
+      - path: Array_1/Cloner_6/Cube_0
+        weight: 1
+      - path: Array_1/Cloner_6/Cube_0_1
+        weight: 1
+      - path: Array_1/Cloner_6/Cube_0_1/Cube
+        weight: 1
+      - path: Array_1/Cloner_6/Cube_0_1/Cube/Null
+        weight: 1
+      - path: Array_1/Cloner_6/Cube_0_1/Cube/Null/Cube_1
+        weight: 1
+      - path: Array_1/Cloner_6/Cube_0_1/Cube/Null/Cube_2
+        weight: 1
+      - path: base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pose
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Array_1
+        weight: 1
+      - path: Array_1/Cloner_1
+        weight: 1
+      - path: Array_1/Cloner_1/Cube_0_1_6
+        weight: 1
+      - path: Array_1/Cloner_1/Cube_0_1_6/Cube_11
+        weight: 1
+      - path: Array_1/Cloner_1/Cube_0_1_6/Cube_11/Null_6
+        weight: 1
+      - path: Array_1/Cloner_1/Cube_0_1_6/Cube_11/Null_6/Cube_1_6
+        weight: 1
+      - path: Array_1/Cloner_1/Cube_0_1_6/Cube_11/Null_6/Cube_12
+        weight: 1
+      - path: Array_1/Cloner_1/Cube_0_6
+        weight: 1
+      - path: Array_1/Cloner_2
+        weight: 1
+      - path: Array_1/Cloner_2/Cube_0_1_5
+        weight: 1
+      - path: Array_1/Cloner_2/Cube_0_1_5/Cube_9
+        weight: 1
+      - path: Array_1/Cloner_2/Cube_0_1_5/Cube_9/Null_5
+        weight: 1
+      - path: Array_1/Cloner_2/Cube_0_1_5/Cube_9/Null_5/Cube_1_5
+        weight: 1
+      - path: Array_1/Cloner_2/Cube_0_1_5/Cube_9/Null_5/Cube_10
+        weight: 1
+      - path: Array_1/Cloner_2/Cube_0_5
+        weight: 1
+      - path: Array_1/Cloner_3
+        weight: 1
+      - path: Array_1/Cloner_3/Cube_0_1_4
+        weight: 1
+      - path: Array_1/Cloner_3/Cube_0_1_4/Cube_7
+        weight: 1
+      - path: Array_1/Cloner_3/Cube_0_1_4/Cube_7/Null_4
+        weight: 1
+      - path: Array_1/Cloner_3/Cube_0_1_4/Cube_7/Null_4/Cube_1_4
+        weight: 1
+      - path: Array_1/Cloner_3/Cube_0_1_4/Cube_7/Null_4/Cube_8
+        weight: 1
+      - path: Array_1/Cloner_3/Cube_0_4
+        weight: 1
+      - path: Array_1/Cloner_4
+        weight: 1
+      - path: Array_1/Cloner_4/Cube_0_1_3
+        weight: 1
+      - path: Array_1/Cloner_4/Cube_0_1_3/Cube_5
+        weight: 1
+      - path: Array_1/Cloner_4/Cube_0_1_3/Cube_5/Null_3
+        weight: 1
+      - path: Array_1/Cloner_4/Cube_0_1_3/Cube_5/Null_3/Cube_1_3
+        weight: 1
+      - path: Array_1/Cloner_4/Cube_0_1_3/Cube_5/Null_3/Cube_6
+        weight: 1
+      - path: Array_1/Cloner_4/Cube_0_3
+        weight: 1
+      - path: Array_1/Cloner_5
+        weight: 1
+      - path: Array_1/Cloner_5/Cube_0_1_2
+        weight: 1
+      - path: Array_1/Cloner_5/Cube_0_1_2/Cube_3
+        weight: 1
+      - path: Array_1/Cloner_5/Cube_0_1_2/Cube_3/Null_2
+        weight: 1
+      - path: Array_1/Cloner_5/Cube_0_1_2/Cube_3/Null_2/Cube_1_2
+        weight: 1
+      - path: Array_1/Cloner_5/Cube_0_1_2/Cube_3/Null_2/Cube_4
+        weight: 1
+      - path: Array_1/Cloner_5/Cube_0_2
+        weight: 1
+      - path: Array_1/Cloner_6
+        weight: 1
+      - path: Array_1/Cloner_6/Cube_0
+        weight: 1
+      - path: Array_1/Cloner_6/Cube_0_1
+        weight: 1
+      - path: Array_1/Cloner_6/Cube_0_1/Cube
+        weight: 1
+      - path: Array_1/Cloner_6/Cube_0_1/Cube/Null
+        weight: 1
+      - path: Array_1/Cloner_6/Cube_0_1/Cube/Null/Cube_1
+        weight: 1
+      - path: Array_1/Cloner_6/Cube_0_1/Cube/Null/Cube_2
+        weight: 1
+      - path: base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
